@@ -1,0 +1,424 @@
+[
+  {
+    "id": "bike1",
+    "name": "Aprilia RS660",
+    "category": "Bikes",
+    "price": 205925.90,  
+    "image":"images/bikes/apriliars660.jpg", 
+    "description" :"Engine: 659 cc liquid-cooled, Power: 100 hp @ 10,500 rpm, Torque: 67 Nm @ 8,500 rpm, Transmission: 6-speed gearbox with slipper clutch and quickshifter, Fuel Capacity: 15 liters" 
+  },
+  {
+    "id": "bike2",
+    "name": "Aprilia RSV4",
+    "category": "Bikes",
+    "price": 349900.0,  
+    "image":"images/bikes/apriliarv4.jpg", 
+    "description" :"Engine: 1099 cc liquid-cooled, Power: 220 hp @ 13,000 rpm, Torque: 127 Nm @ 10,500 rpm, Transmission: 6-speed gearbox with Aprilia Quick Shift (AQS) up/down system, Fuel Capacity: 18 liters" 
+  },
+  {
+  "id": "bike3",
+  "name": "BMW S1000RR",
+  "category": "Bikes",
+  "price": 320000.0,
+  "image": "images/bikes/bmw.jpg",
+  "description": "Engine: 999cc inline-4, DOHC, liquid-cooled, Power: 193 hp @ 13,000 rpm, Torque: 112 Nm @ 9,750 rpm, Transmission: 6-speed manual, Fuel Capacity: 16.5 liters"
+},
+{
+  "id": "bike4",
+  "name": "BMW R1200GS",
+  "category": "Bikes",
+  "price": 280000.0,
+  "image": "images/bikes/bmwgs.jpg",
+  "description": "Engine: 1,170cc flat-twin boxer, DOHC, air/liquid-cooled, Power: 125 hp @ 7,750 rpm, Torque: 125 Nm @ 6,500 rpm, Transmission: 6-speed manual, Fuel Capacity: 20 liters"
+},
+{
+  "id": "bike5",
+  "name": "CFMOTO 675SRR",
+  "category": "Bikes",
+  "price": 150000.0,
+  "image": "images/bikes/cfmoto600.jpg",
+  "description": "Engine: 675cc inline-3, DOHC, liquid-cooled, Power: 100 hp @ 12,000 rpm, Torque: 70 Nm @ 9,000 rpm, Transmission: 6-speed manual, Fuel Capacity: 17 liters"
+},
+{
+  "id": "bike6",
+  "name": "Ducati Panigale V4",
+  "category": "Bikes",
+  "price": 426000.0,
+  "image": "images/bikes/ducati.jpg",
+  "description": "Engine: 1,103cc V4, DOHC, liquid-cooled, Power: 214 hp @ 13,000 rpm, Torque: 124 Nm @ 10,000 rpm, Transmission: 6-speed manual, Fuel Capacity: 16 liters"
+},
+{
+  "id": "bike7",
+  "name": "Ducati Multistrada V4",
+  "category": "Bikes",
+  "price": 327000.0,
+  "image": "images/bikes/ducatistradale.jpg",
+  "description": "Engine: 1,158cc V4 Granturismo, DOHC, liquid-cooled, Power: 170 hp @ 10,500 rpm, Torque: 125 Nm @ 8,750 rpm, Transmission: 6-speed manual, Fuel Capacity: 22 liters"
+},
+{
+  "id": "bike8",
+  "name": "Honda CBR1000RR-R",
+  "category": "Bikes",
+  "price": 435000.0,
+  "image": "images/bikes/honda.jpg",
+  "description": "Engine: 999.9cc inline-4, DOHC, liquid-cooled, Power: 215 hp @ 14,500 rpm, Torque: 113 Nm @ 12,500 rpm, Transmission: 6-speed manual, Fuel Capacity: 16.1 liters"
+},
+{
+  "id": "bike9",
+  "name": "Honda CRF1100L Africa Twin",
+  "category": "Bikes",
+  "price": 280000.0,
+  "image": "images/bikes/hondaadventure.jpg",
+  "description": "Engine: 1,084cc parallel-twin, SOHC, liquid-cooled, Power: 101 hp @ 7,500 rpm, Torque: 105 Nm @ 6,250 rpm, Transmission: 6-speed manual or DCT, Fuel Capacity: 24.8 liters"
+},
+{
+  "id": "bike10",
+  "name": "Honda CBR600RR",
+  "category": "Bikes",
+  "price": 200000.0,
+  "image": "images/bikes/hondacbr600.jpg",
+  "description": "Engine: 599cc inline-4, DOHC, liquid-cooled, Power: 121 hp @ 14,000 rpm, Torque: 66 Nm @ 11,500 rpm, Transmission: 6-speed manual, Fuel Capacity: 18 liters"
+},
+{
+  "id": "bike11",
+  "name": "Kawasaki ZX-6R",
+  "category": "Bikes",
+  "price": 180000.0,
+  "image": "images/bikes/kawasakizx6r.jpg",
+  "description": "Engine: 636cc inline-4, DOHC, liquid-cooled, Power: 130 hp @ 13,500 rpm, Torque: 70.8 Nm @ 11,000 rpm, Transmission: 6-speed manual, Fuel Capacity: 17 liters"
+},
+{
+  "id": "bike12",
+  "name": "Kawasaki ZX-10R",
+  "category": "Bikes",
+  "price": 320000.0,
+  "image": "images/bikes/kawasaki.jpg",
+  "description": "Engine: 998cc inline-4, DOHC, liquid-cooled, Power: 203 hp @ 13,200 rpm, Torque: 114.9 Nm @ 11,400 rpm, Transmission: 6-speed manual, Fuel Capacity: 17 liters"
+},
+{
+  "id": "bike13",
+  "name": "Kawasaki Ninja H2",
+  "category": "Bikes",
+  "price": 490500.0,
+  "image": "images/bikes/kawasakih2.jpg",
+  "description": "Engine: 998cc supercharged inline-4, DOHC, liquid-cooled, Power: 200 hp @ 11,000 rpm, Torque: 133.5 Nm @ 10,500 rpm, Transmission: 6-speed manual, Fuel Capacity: 17 liters"
+},
+{
+  "id": "bike14",
+  "name": "KTM 1290 Super Duke R",
+  "category": "Bikes",
+  "price": 305850.0,
+  "image": "images/bikes/ktmduke.jpg",
+  "description": "Engine: 1,301cc V-twin, DOHC, liquid-cooled, Power: 180 hp @ 9,500 rpm, Torque: 140 Nm @ 8,000 rpm, Transmission: 6-speed manual, Fuel Capacity: 16 liters"
+},
+{
+  "id": "bike15",
+  "name": "Yamaha YZF-R1",
+  "category": "Bikes",
+  "price": 320000.0,
+  "image": "images/bikes/yamaha.jpg",
+  "description": "Engine: 998cc inline-4, DOHC, liquid-cooled, Power: 200 hp @ 13,500 rpm, Torque: 112.4 Nm @ 11,500 rpm, Transmission: 6-speed manual, Fuel Capacity: 17 liters"
+},
+{
+  "id": "bike16",
+  "name": "Yamaha YZF-R6",
+  "category": "Bikes",
+  "price": 200000.0,
+  "image": "images/bikes/yamahaR6.jpg",
+  "description": "Engine: 599cc inline-4, DOHC, liquid-cooled, Power: 117 hp @ 14,500 rpm, Torque: 61.7 Nm @ 10,500 rpm, Transmission: 6-speed manual, Fuel Capacity: 17 liters"
+},
+{
+  "id": "bike17",
+  "name": "Yamaha Tracer 900",
+  "category": "Bikes",
+  "price": 220000.0,
+  "image": "images/bikes/yamaha_tracer_900.jpg",
+  "description": "Engine: 847cc inline-3, DOHC, liquid-cooled, Power: 115 hp @ 10,000 rpm, Torque: 87.5 Nm @ 8,500 rpm, Transmission: 6-speed manual, Fuel Capacity: 18 liters"
+},
+
+
+
+
+
+{
+  "id": "boot1",
+  "name": "Alpinestars Supertech R",
+  "category": "Boots",
+  "price": 11500.0,
+  "image": "images/boots/supertech.jpg",
+  "description": "High-performance racing boots with replaceable toe sliders, micro-adjustable ratchet closure, breathable mesh interior, and biomechanical inner brace for ankle protection. CE-certified."
+},
+{
+  "id": "boot2",
+  "name": "TCX S-Sportour Evo",
+  "category": "Boots",
+  "price": 6000.0,
+  "image": "images/boots/sportour.jpg",
+  "description": "Sport-touring boots with microfiber upper, elasticated front and rear padding, reinforced heel and toe, and CE EN13634 certification. Ideal for street and light track use."
+},
+{
+  "id": "boot3",
+  "name": "Sidi ST Air Boots (Blue)",
+  "category": "Boots",
+  "price": 9500.0,
+  "image": "images/boots/airboots.jpg",
+  "description": "Track-focused boots with adjustable calf system, shock-absorbing heel cup, air ventilation system, and replaceable parts. Perforated for increased airflow."
+},
+{
+  "id": "boot4",
+  "name": "Sidi ST Gore-Tex Boots (Black/Red)",
+  "category": "Boots",
+  "price": 9800.0,
+  "image": "images/boots/goretex.jpg",
+  "description": "High-protection sport boots with Gore-Tex waterproof membrane, ankle support brace system, replaceable sliders, and full-length zipper closure system. CE rated."
+},
+{
+  "id": "boot5",
+  "name": "Sidi Fusion Short Boots",
+  "category": "Boots",
+  "price": 5700.0,
+  "image": "images/boots/fusionshort.jpg",
+  "description": "Mid-height street boots offering toe and heel reinforcement, replaceable sliders, breathable inner liner, and comfortable everyday usability. Great for commuters and casual riders."
+},
+{
+  "id": "boot6",
+  "name": "Sidi ST Air Boots",
+  "category": "Boots",
+  "price": 32000.0,
+  "image": "images/boots/airboots2.jpg",
+  "description": "High-performance track boots with perforated Lorica construction, ankle bracing system, and replaceable parts including sliders and shin plates. Designed for advanced riders seeking maximum protection and airflow."
+},
+{
+  "id": "boot7",
+  "name": "RST Tractech Evo 3 Boots",
+  "category": "Boots",
+  "price": 18500.0,
+  "image": "images/boots/tractech.jpg",
+  "description": "Sport-styled boots built for track and street performance. Features include reinforced toe box, ankle protection, and a ventilated design for long ride comfort. CE certified for safety."
+},
+{
+  "id": "boot3",
+  "name": "TCX RT-Race Pro Air Boots",
+  "category": "Boots",
+  "price": 27000.0,
+  "image": "images/boots/airboots3.jpg",
+  "description": "Premium race boots with advanced torsion control, breathable microfibre upper, and aggressive styling. Ideal for professional riders and track day enthusiasts needing ultimate performance and ventilation."
+},
+
+
+{
+  "id": "helmet1",
+  "name": "MT Thunder 4 SV Solid Helmet",
+  "category": "Helmets",
+  "price": 5900.0,
+  "image": "images/helmets/kyt.jpg",
+  "description": "Affordable full-face helmet with aerodynamic design, internal sun visor, and enhanced ventilation. Ideal for urban riders and beginners seeking safety and style."
+},
+{
+  "id": "helmet2",
+  "name": "KYT NF-R Race Replica Helmet",
+  "category": "Helmets",
+  "price": 14500.0,
+  "image": "images/helmets/kyt2.jpg",
+  "description": "Race-inspired helmet with aggressive graphics, aerodynamic profile, and excellent ventilation. Suitable for sport riders and track day enthusiasts."
+},
+{
+  "id": "helmet3",
+  "name": "Axor Apex Adventure Helmet",
+  "category": "Helmets",
+  "price": 7900.0,
+  "image": "images/helmets/orange.jpg",
+  "description": "Dual-sport helmet combining off-road style with street practicality. Features include an integrated sun visor, aerodynamic peak, and wide field of view."
+},
+{
+  "id": "helmet4",
+  "name": "AGV Pista GP RR Carbon Helmet",
+  "category": "Helmets",
+  "price": 125000.0,
+  "image": "images/helmets/pista.jpg",
+  "description": "Top-tier MotoGP-level racing helmet with full carbon shell, superior ventilation, and optical clarity. Built for professionals who demand the best in safety and performance."
+},
+{
+  "id": "helmet5",
+  "name": "Shoei Hornet ADV Helmet",
+  "category": "Helmets",
+  "price": 55000.0,
+  "image": "images/helmets/shoei.jpg",
+  "description": "Premium adventure helmet with lightweight shell, advanced ventilation system, and removable peak. Perfect for long-distance touring and off-road exploration."
+},
+{
+  "id": "helmet6",
+  "name": "Klim Krios Pro Helmet",
+  "category": "Helmets",
+  "price": 65000.0,
+  "image": "images/helmets/ktm.jpg",
+  "description": "High-end ADV helmet made with carbon fiber and Koroyd technology for impact absorption. Extremely lightweight and designed for serious adventure riders."
+},
+{
+  "id": "helmet7",
+  "name": "AGV AX9 Dual Sport Helmet",
+  "category": "Helmets",
+  "price": 42000.0,
+  "image": "images/helmets/adv helmet.jpg",
+  "description": "Versatile helmet for both on-road and off-road riding, with a lightweight carbon-aramid shell and excellent airflow. Great for adventure touring."
+},
+{
+  "id": "helmet8",
+  "name": "Alpinestars Supertech M10 Helmet",
+  "category": "Helmets",
+  "price": 70000.0,
+  "image": "images/helmets/alpinestar.jpg",
+  "description": "Carbon composite helmet offering top-tier safety and fitment. Designed for motocross and aggressive off-road use with adjustable features and high ventilation."
+},
+{
+  "id": "helmet9",
+  "name": "Bell Qualifier DLX MIPS Helmet",
+  "category": "Helmets",
+  "price": 18500.0,
+  "image": "images/helmets/bell.jpg",
+  "description": "Sport-touring helmet equipped with MIPS technology for enhanced impact protection, photochromic visor compatibility, and a sleek aggressive design."
+},
+{
+  "id": "helmet10",
+  "name": "HJC CL-17 Graphic Helmet",
+  "category": "Helmets",
+  "price": 9700.0,
+  "image": "images/helmets/hjc.jpg",
+  "description": "Budget-friendly helmet with colorful graphics, ACS ventilation, and DOT/SNELL certification. A great entry-level choice for street riders."
+},
+
+
+ 
+ {
+    "id": "suit1",
+    "name": "Pinestar Textile Suit",
+    "category": "Suits",
+    "price": 9500.0,
+    "image": "images/suits/pinestar.jpg",
+    "description": "Urban-styled textile riding suit combining functionality and aesthetics. Features include CE protection, weather-resistant outer shell, and breathable mesh zones. Ideal for city riders looking for a balance between protection and fashion."
+  },
+  {
+    "id": "suit2",
+    "name": "Pink Track Suit",
+    "category": "Suits",
+    "price": 10800.0,
+    "image": "images/suits/pinksuit.jpg",
+    "description": "Bold and stylish one-piece leather suit designed for women. Offers full-body protection with CE-approved armor, aerodynamic hump, and stretch panels for race-ready mobility and comfort."
+  },
+  {
+    "id": "suit3",
+    "name": "Velos Leather Racing Suit",
+    "category": "Suits",
+    "price": 11900.0,
+    "image": "images/suits/velos.jpg",
+    "description": "Premium racing suit with aggressive styling and high-performance materials. Includes full-grain leather, ventilated panels, knee sliders, and a speed hump. Built for track enthusiasts."
+  },
+  {
+    "id": "suit4",
+    "name": "White Phantom Suit",
+    "category": "Suits",
+    "price": 11300.0,
+    "image": "images/suits/whitesuit.jpg",
+    "description": "Sleek and futuristic all-white leather suit. Offers impact protection with armor inserts and reinforced seams. Designed for riders who want to make a bold statement on the road or track."
+  },
+  {
+    "id": "suit5",
+    "name": "Blackout Full Leather Suit",
+    "category": "Suits",
+    "price": 11000.0,
+    "image": "images/suits/blacksuit.jpg",
+    "description": "Classic all-black leather riding suit with stealth aesthetics. Features ergonomic design, ventilated areas, and reinforced armor zones. A go-to for versatile street and track use."
+  },
+  {
+    "id": "suit6",
+    "name": "Blue Storm Race Suit",
+    "category": "Suits",
+    "price": 11500.0,
+    "image": "images/suits/blue.jpg",
+    "description": "Dynamic two-tone blue racing suit made from durable leather. Offers race-spec protection, aerodynamic hump, and articulated joints for maximum movement at high speeds."
+  },
+  {
+    "id": "suit7",
+    "name": "Green Flash Leather Suit",
+    "category": "Suits",
+    "price": 11200.0,
+    "image": "images/suits/green suit.jpg",
+    "description": "Striking green-highlighted leather suit designed for visibility and performance. Equipped with full protection suite and strategic ventilation zones for track or canyon carving."
+  },
+  {
+    "id": "suit8",
+    "name": "Ixon Vortex 2 Suit",
+    "category": "Riding Suits",
+    "price": 12500.0,
+    "image": "images/suits/ixon.jpg",
+    "description": "High-performance racing suit from Ixon, built for professional track use. Features Kangaroo leather, integrated airbags (optional), and superior ventilation and protection systems."
+  },
+
+
+  {
+    "id": "tyre1",
+    "name": "Maxxis M6029 Touring Tires",
+    "category": "Tyres",
+    "price": 4200.0,
+    "image": "images/tires/maxxi.jpg",
+    "description": "Durable touring tires ideal for scooters and commuter bikes. Designed for long mileage and consistent performance in both wet and dry conditions."
+  },
+  {
+    "id": "tyre2",
+    "name": "Pirelli Diablo Rosso IV",
+    "category": "Tyres",
+    "price": 9300.0,
+    "image": "images/tires/pirelli.jpg",
+    "description": "High-performance sport tires for street and track use. Offers excellent grip, agility, and handling thanks to its dual-compound technology."
+  },
+  {
+    "id": "tyre3",
+    "name": "Dunlop Trailmax Mission",
+    "category": "Tyres",
+    "price": 9800.0,
+    "image": "images/tires/dunlop traimax.jpg",
+    "description": "Adventure touring tires made for both off-road and highway performance. Offers aggressive tread for dirt and longevity for long trips."
+  },
+  {
+    "id": "tyre4",
+    "name": "Essex Hypersport Tires",
+    "category": "Tyres",
+    "price": 7500.0,
+    "image": "images/tires/essex.jpg",
+    "description": "Aggressive tread and cornering grip for sportbike riders who demand high-speed stability and performance on paved roads."
+  },
+  {
+    "id": "tyre5",
+    "name": "Michelin Pilot Power 2CT",
+    "category": "Tyres",
+    "price": 8600.0,
+    "image": "images/tires/michelin.jpg",
+    "description": "Dual-compound tires offering an excellent balance of grip and mileage. Suitable for riders looking for sport performance with everyday usability."
+  },
+  {
+    "id": "tyre6",
+    "name": "Metzeler Sportec M9 RR",
+    "category": "Tyres",
+    "price": 9200.0,
+    "image": "images/tires/speed.jpg",
+    "description": "Engineered for supersport motorcycles with excellent wet and dry grip. Suitable for aggressive riders and corner carving enthusiasts."
+  },
+  {
+    "id": "tyre7",
+    "name": "Pirelli Diablo Supercorsa SP V3",
+    "category": "Tyres",
+    "price": 10900.0,
+    "image": "images/tires/corsa.jpg",
+    "description": "Track-bred tires with race compound for superior grip at lean angles. Homologated for street use but built for track days."
+  },
+  {
+    "id": "tyre8",
+    "name": "Michelin Road 6",
+    "category": "Tyres",
+    "price": 9700.0,
+    "image": "images/tires/road6.jpg",
+    "description": "Sport touring tires with outstanding wet grip, durability, and comfort. Designed for long-distance riders and versatile road use."
+  }
+
+
+]
