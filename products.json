@@ -12,7 +12,7 @@
     "name": "Aprilia RSV4",
     "category": "Bikes",
     "price": 349900.0,  
-    "image":"images/bikes/apriliarv4.jpg", 
+    "image":"images/bikes/apriliarsv4.jpg", 
     "description" :"Engine: 1099 cc liquid-cooled, Power: 220 hp @ 13,000 rpm, Torque: 127 Nm @ 10,500 rpm, Transmission: 6-speed gearbox with Aprilia Quick Shift (AQS) up/down system, Fuel Capacity: 18 liters" 
   },
   {
@@ -84,7 +84,7 @@
   "name": "Kawasaki ZX-6R",
   "category": "Bikes",
   "price": 180000.0,
-  "image": "images/bikes/kawasakizx6r.jpg",
+  "image": "images/bikes/kawasaki zx6r.jpg",
   "description": "Engine: 636cc inline-4, DOHC, liquid-cooled, Power: 130 hp @ 13,500 rpm, Torque: 70.8 Nm @ 11,000 rpm, Transmission: 6-speed manual, Fuel Capacity: 17 liters"
 },
 {
@@ -132,7 +132,7 @@
   "name": "Yamaha Tracer 900",
   "category": "Bikes",
   "price": 220000.0,
-  "image": "images/bikes/yamaha_tracer_900.jpg",
+  "image": "images/bikes/yamahatouring.jpg",
   "description": "Engine: 847cc inline-3, DOHC, liquid-cooled, Power: 115 hp @ 10,000 rpm, Torque: 87.5 Nm @ 8,500 rpm, Transmission: 6-speed manual, Fuel Capacity: 18 liters"
 },
 
