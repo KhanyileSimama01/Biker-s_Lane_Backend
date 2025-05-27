@@ -302,7 +302,7 @@
     "name": "Pink Track Suit",
     "category": "Suits",
     "price": 10800.0,
-    "image": "images/suits/pinksuit.jpg",
+    "image": "images/suits/pink suit.jpg",
     "description": "Bold and stylish one-piece leather suit designed for women. Offers full-body protection with CE-approved armor, aerodynamic hump, and stretch panels for race-ready mobility and comfort."
   },
   {
@@ -318,7 +318,7 @@
     "name": "White Phantom Suit",
     "category": "Suits",
     "price": 11300.0,
-    "image": "images/suits/whitesuit.jpg",
+    "image": "images/suits/white suit.jpg",
     "description": "Sleek and futuristic all-white leather suit. Offers impact protection with armor inserts and reinforced seams. Designed for riders who want to make a bold statement on the road or track."
   },
   {
@@ -326,7 +326,7 @@
     "name": "Blackout Full Leather Suit",
     "category": "Suits",
     "price": 11000.0,
-    "image": "images/suits/blacksuit.jpg",
+    "image": "images/suits/black suit.jpg",
     "description": "Classic all-black leather riding suit with stealth aesthetics. Features ergonomic design, ventilated areas, and reinforced armor zones. A go-to for versatile street and track use."
   },
   {
