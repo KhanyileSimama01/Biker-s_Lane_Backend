@@ -360,7 +360,7 @@
     "name": "Maxxis M6029 Touring Tires",
     "category": "Tyres",
     "price": 4200.0,
-    "image": "images/tires/maxxi.jpg",
+    "image": "images/tyres/maxxi.jpg",
     "description": "Durable touring tires ideal for scooters and commuter bikes. Designed for long mileage and consistent performance in both wet and dry conditions."
   },
   {
@@ -368,7 +368,7 @@
     "name": "Pirelli Diablo Rosso IV",
     "category": "Tyres",
     "price": 9300.0,
-    "image": "images/tires/pirelli.jpg",
+    "image": "images/tyres/pirelli.jpg",
     "description": "High-performance sport tires for street and track use. Offers excellent grip, agility, and handling thanks to its dual-compound technology."
   },
   {
@@ -376,7 +376,7 @@
     "name": "Dunlop Trailmax Mission",
     "category": "Tyres",
     "price": 9800.0,
-    "image": "images/tires/dunlop traimax.jpg",
+    "image": "images/tyres/dunlop traimax.jpg",
     "description": "Adventure touring tires made for both off-road and highway performance. Offers aggressive tread for dirt and longevity for long trips."
   },
   {
@@ -384,7 +384,7 @@
     "name": "Essex Hypersport Tires",
     "category": "Tyres",
     "price": 7500.0,
-    "image": "images/tires/essex.jpg",
+    "image": "images/tyres/essex.jpg",
     "description": "Aggressive tread and cornering grip for sportbike riders who demand high-speed stability and performance on paved roads."
   },
   {
@@ -392,7 +392,7 @@
     "name": "Michelin Pilot Power 2CT",
     "category": "Tyres",
     "price": 8600.0,
-    "image": "images/tires/michelin.jpg",
+    "image": "images/tyres/michelin.jpg",
     "description": "Dual-compound tires offering an excellent balance of grip and mileage. Suitable for riders looking for sport performance with everyday usability."
   },
   {
@@ -400,7 +400,7 @@
     "name": "Metzeler Sportec M9 RR",
     "category": "Tyres",
     "price": 9200.0,
-    "image": "images/tires/speed.jpg",
+    "image": "images/tyres/speed.jpg",
     "description": "Engineered for supersport motorcycles with excellent wet and dry grip. Suitable for aggressive riders and corner carving enthusiasts."
   },
   {
@@ -408,7 +408,7 @@
     "name": "Pirelli Diablo Supercorsa SP V3",
     "category": "Tyres",
     "price": 10900.0,
-    "image": "images/tires/corsa.jpg",
+    "image": "images/tyres/corsa.jpg",
     "description": "Track-bred tires with race compound for superior grip at lean angles. Homologated for street use but built for track days."
   },
   {
@@ -416,7 +416,7 @@
     "name": "Michelin Road 6",
     "category": "Tyres",
     "price": 9700.0,
-    "image": "images/tires/road6.jpg",
+    "image": "images/tyres/road6.jpg",
     "description": "Sport touring tires with outstanding wet grip, durability, and comfort. Designed for long-distance riders and versatile road use."
   }
 
